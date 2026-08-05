@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "DM Sans", system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #1c1917;
+}
+
+.border-gradient {
+    position: relative;
+    background-color: white;
+}
+
+.border-gradient::before {
+    content: "";
+    @apply absolute rounded-lg inset-0 p-0.5 bg-linear-90 from-pink-500 to-purple-950;
+    mask-composite: exclude !important;
+    -webkit-mask: linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);
+}
+
+.border-gradient-full::before {
+    content: "";
+    @apply rounded-full;
+    color: transparent;
+}
