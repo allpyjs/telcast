@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ameristruct.org/sitemap.xml
+Sitemap: https://telcastengineering.com/sitemap.xml
