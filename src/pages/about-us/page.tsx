@@ -23,13 +23,7 @@ const engineers = [
     credentials: "PE, PE, Electrical",
     bio: "Licensed Professional Engineer across multiple states with extensive expertise in civil, structural, and electrical engineering. Brian leads engineering teams and delivers integrated design solutions, ensuring all projects meet rigorous code requirements and exceed client expectations throughout the United States.",
   },
-  {
-    avatar: "/avatars/David.png",
-    name: "David",
-    title: "Senior Professional Engineer",
-    credentials: "PE",
-    bio: "Leads site development, grading, drainage, and utility design. David works closely with municipalities and contractors to deliver permit-ready civil plans and construction support.",
-  },
+
   {
     avatar: "/avatars/saayd.jpg",
     name: "Saady Amin",
