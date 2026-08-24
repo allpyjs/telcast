@@ -7,11 +7,11 @@ const leadership = [
     bio: "Isaac brings extensive experience in structural engineering and project management. He leads Telcast Engineering's strategic direction and oversees major infrastructure projects, ensuring technical excellence, regulatory compliance, and successful project delivery across multiple states throughout the United States.",
   },
   {
-    avatar: "/avatars/Stiven.JPG",
-    name: "Stiven Mejia",
+    avatar: "/avatars/scott.PNG",
+    name: "Scott Curtis",
     title: "Co-Founder",
     credentials: "Contracts, Payments & Finance",
-    bio: "Stiven co-founded Telcast Engineering and leads contracting, payments, and financial operations. He manages relationships with contractors, consultants, and builders—overseeing agreements, disbursements, and project economics. His focus is on transparent, efficient processes that support delivery and strong partner relationships.",
+    bio: "Scott co-founded Telcast Engineering and leads contracting, payments, and financial operations. He manages relationships with contractors, consultants, and builders—overseeing agreements, disbursements, and project economics. His focus is on transparent, efficient processes that support delivery and strong partner relationships.",
   },
 ];
 
@@ -52,13 +52,13 @@ const engineers = [
     credentials: "SE",
     bio: "Licensed Structural Engineer with expertise in structural analysis, building design, and code-compliant engineering solutions. Bob provides safe, efficient, and innovative structural designs for residential, commercial, and industrial projects. He is licensed in SC, GA, KY, NC, and VA, delivering structural engineering services throughout the southeastern United States.",
   },
-  {
-    avatar: "/avatars/scott.PNG",
-    name: "Scott",
-    title: "Licensed Architect",
-    credentials: "RA, LEED AP",
-    bio: "Licensed Architect with expertise in sustainable design and building systems. Scott creates innovative architectural solutions that integrate functionality, aesthetics, and environmental responsibility for projects across the United States.",
-  },
+  // {
+  //   avatar: "/avatars/scott.PNG",
+  //   name: "Scott",
+  //   title: "Licensed Architect",
+  //   credentials: "RA, LEED AP",
+  //   bio: "Licensed Architect with expertise in sustainable design and building systems. Scott creates innovative architectural solutions that integrate functionality, aesthetics, and environmental responsibility for projects across the United States.",
+  // },
 ];
 
 const ProfileCard = ({
