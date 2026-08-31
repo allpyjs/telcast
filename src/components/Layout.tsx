@@ -161,13 +161,13 @@ const Layout = () => {
                 </li>
                 <li>
                   <a
-                    href="tel:+19295251450"
+                    href="tel:+15619200515"
                     className="flex items-center gap-3 text-sm text-stone-700 transition-colors hover:text-blue-600"
                   >
                     <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-stone-100">
                       <FaPhone className="text-stone-500" size={14} />
                     </span>
-                    (929) 525-1450
+                    (561) 920-0515
                   </a>
                 </li>
                 <li>
